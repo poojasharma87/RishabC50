@@ -1,0 +1,15 @@
+h1 {
+    color:red;
+}
+.header *{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+body{
+    background-color: blue;
+    font-family:Georgia;
+}
+
+

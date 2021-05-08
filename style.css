@@ -1,0 +1,73 @@
+h4{
+    color: white;
+    text-align: center;
+    transform: translate(0%, 100%);
+}
+
+h3{
+    color: white;
+    transform: translate(0% -300px);
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 20px;
+    
+    
+}
+
+.words{
+    text-align: center;
+    transform: translate(0px, -400px);
+    color: white;
+    font-size: 150%;
+    
+}
+
+.word1{
+    text-align: center;
+    transform: translate(0px, -400px);
+    color: white;
+    font-size: 200%;
+    
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+hr{
+    width: 10000;
+}
+
+.img{
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.header{
+    background-color: black;
+}
+
+.about{
+    text-align: right;
+}
+
+a:link{
+    color: white;
+}
+
+body{
+    background-color: #123456;
+}
